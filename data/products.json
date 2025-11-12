@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Product One",
+    "price": 29.99,
+    "image": "/images/product1.jpg",
+    "description": "Short description for product one."
+  },
+  {
+    "id": 2,
+    "name": "Product Two",
+    "price": 49.99,
+    "image": "/images/product2.jpg",
+    "description": "Short description for product two."
+  }
+]
